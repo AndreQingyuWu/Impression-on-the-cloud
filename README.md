@@ -12,4 +12,20 @@ Redis recommends the latest version
 Tensorflow.js recommended latest version
 
 ## Screenshot
-![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0.jpg)
+
+#User registration
+![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/User%20registration.jpg)
+
+#Cross-platform image upload
+![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Cross-platform%20image%20upload.jpg)
+
+#Hand-painted search
+![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Hand-painted%20search1.jpg)
+![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Hand-painted%20search2.jpg)
+![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Hand-painted%20search3.jpg)
+
+#Use image search based on image cognition
+![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Use%20image%20search%20based%20on%20image%20cognition.jpg)
+
+#Use text search based on image cognition
+![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Use%20text%20search%20based%20on%20image%20cognition.jpg)
