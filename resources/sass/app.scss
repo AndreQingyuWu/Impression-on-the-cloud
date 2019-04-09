@@ -1,0 +1,104 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+footer {
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+  font-size: 13px;
+  font-weight: bold;
+
+  a {
+    color: #555;
+  }
+
+  a:hover {
+    color: #222;
+  }
+
+  small {
+    float: left;
+  }
+
+  img.brand-icon {
+    width: 17px;
+    height: 17px;
+  }
+
+}
+
+.flash-message{
+  margin-top: 1rem;
+}
+
+.image-checkbox
+{
+  cursor: pointer;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  border: 0.3rem solid transparent;
+  outline: 0;
+}
+
+.image-checkbox input[type="checkbox"]
+{
+  display: none;
+}
+
+.image-checkbox-checked
+{
+  border-color: $teal;
+}
+
+.img-cloud{
+  width: 10rem;
+}
+
+.img-cloud-small{
+  width: 4rem;
+}
+
+#canvas{
+  margin:0 auto;
+  border: 1px solid #333;
+  display: block;
+}
+#box{
+  position: relative;
+}
+#color{
+  width:100px;
+  height:32px;
+  position:absolute;
+  right:115px;
+  top:200px;
+}
+#range{
+  width:100px;
+  height:32px;
+  position:absolute;
+  right:115px;
+  top:125px;
+}
+#demo{
+  background:black;
+  width:100px;
+  height:5px;
+  position:absolute;
+  right:115px;
+  top:100px;
+}
