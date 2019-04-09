@@ -13,19 +13,19 @@ Tensorflow.js recommended latest version
 
 ## Screenshot
 
-#User registration
+User registration
 ![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/User%20registration.jpg)
 
-#Cross-platform image upload
+Cross-platform image upload
 ![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Cross-platform%20image%20upload.jpg)
 
-#Hand-painted search
+Hand-painted search
 ![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Hand-painted%20search1.jpg)
 ![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Hand-painted%20search2.jpg)
 ![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Hand-painted%20search3.jpg)
 
-#Use image search based on image cognition
+Use image search based on image cognition
 ![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Use%20image%20search%20based%20on%20image%20cognition.jpg)
 
-#Use text search based on image cognition
+Use text search based on image cognition
 ![image](https://github.com/AndreQingyuWu/Impression-on-the-cloud/blob/master/screenshots/Use%20text%20search%20based%20on%20image%20cognition.jpg)
